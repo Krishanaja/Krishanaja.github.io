@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 75px;
+    text-decoration: underline;
+}
+h2{
+    font-size: 30px;
+    color: Gold;
+    text-align: center;
+}
+img{
+Border: 10px solid;
+border-radius: 30Px;
+Border-color: white;
+    float: center; 
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    color: blue;
+}
+p{
+    font-size: 25px;
+    float: right;
+}
+nav{
+        float: right;
+        font-size: 75px;
+}

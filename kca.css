@@ -34,8 +34,6 @@ img{
 
   font-family: GeogrotesqueReg;
 
-  src: url('../font/geogrotesque/Geogtq-Rg.otf');
-
 }
 
 
@@ -44,9 +42,6 @@ img{
 @font-face {
 
   font-family: GeogrotesqueLight;
-
-  src: url('../font/geogrotesque/Geogtq-Lg.otf');
-
 }
 
 
@@ -56,8 +51,6 @@ img{
 
   font-family: GeogrotesqueMedium;
 
-  src: url('../font/geogrotesque/Geogtq-Md.otf');
-
 }
 
 
@@ -66,9 +59,6 @@ img{
 @font-face {
 
   font-family: GeogrotesqueSemiBold;
-
-  src: url('../font/geogrotesque/Geogtq-Sb.otf');
-
 }
 
 
@@ -77,19 +67,12 @@ img{
 @font-face {
 
   font-family: GeogrotesqueBold;
-
-  src: url('../font/geogrotesque/Geogtq-Bd.otf');
-
 }
 
 
 
 
 body {
-
-	 background: #1f2327 url(../img/footer.png) repeat-x bottom left;
-
-	 min-width: 1036px;
 
 	 font-family: "Helvetica Neue", Arial, sans-serif;
 
@@ -111,19 +94,6 @@ body {
 	 text-indent: -9999px;
 
 }
-
-
-
-
-/*
-
-#container h1 a:hover {
-
-   background-position-y: -104px;
-
-}
-
-*/
 
 
 
